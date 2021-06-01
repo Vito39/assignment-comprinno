@@ -1,0 +1,8 @@
+[1].declare variable t 
+    take input of test cases
+    running loop t times
+
+[2].declare variable a
+    taking input a
+    converting to lowercase
+[3].printing correspondence word

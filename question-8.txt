@@ -1,0 +1,11 @@
+[1].declare varible t to take input 
+[2].running loop t times
+
+[3].declare a,b,n
+   taking input a,b,n
+
+[4]. if n is odd then a will be twice beacuse integer division of n/2 will be multiply in both 
+
+[5]. x=max(a,b)
+[6]. y=min(a,b)
+printing answer x/y

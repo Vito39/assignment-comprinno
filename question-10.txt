@@ -1,0 +1,6 @@
+[1].declare t to take input of test cases 
+    running loop t times
+[2].declare varible b to take input of salary
+    declare varibale T to store answer
+[3]. if b>=1500 T=b+0.98*b+500 else T=2*b
+  printing answer 

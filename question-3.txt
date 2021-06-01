@@ -1,0 +1,17 @@
+[1].declare array for global to input stripe length.
+[2]. taking the value t
+[3]. running the loop t to 1.
+[4]. taking varibale length 
+[5]. taking stripe as input in a[i]
+[6]. if n is divisble by 0 then no is anwser
+    else
+    [6.1]  checking for answer exist  
+
+    [6.2]	 knowing the mid position
+       
+    [6.3]  check from center to left to check every enter value is correct or not.
+          
+    [6.4] check from center to right check every enter value is correct or not.
+      
+    [6.5]  printing answer
+

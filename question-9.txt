@@ -1,0 +1,9 @@
+[1].declare t to take input of test cases 
+    running loop t times 
+[2].declare n to take input of length of array 
+    declare m to store minimum
+    declare i to iterate 
+    declare x to take input of array
+[3].running loop n times
+    take input array and calculate minimum 
+[4].printing answer (n-1)*m

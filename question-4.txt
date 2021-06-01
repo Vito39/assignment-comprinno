@@ -1,0 +1,24 @@
+[1]. declare variable t
+	 taking input t
+
+[2]. running a loop t times
+
+[3]. declare n to store length
+     taking length input
+
+[4]. declare prev string 
+     take input prev string
+
+[5]. declare next to store next string 
+     for storing answer
+
+[6]. running loop n-1 times
+     taking next as input
+     if next=="cookie" and prev=="cookie"     // checking condition
+           
+     storing next in prev for next iteration
+    
+[7]. checking base condition if last input == 'cookie'
+    
+[8]. printing answer.
+ 

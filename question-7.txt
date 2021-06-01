@@ -1,0 +1,16 @@
+[1].declare map to store the count of sticks
+[2].declare t to take input test cases
+    running  loop from t to 1
+[3]. clearing map
+[4].declare n to take input of length of array
+    declare i to iterate
+    declare x to take input of array    
+    declare a to store area
+   declare priority queue to store value stick have count 2
+
+[5].running loop n times 
+    take input  
+    if count of x > 2  push it in priority queue and reduce count by 2. 
+    	
+
+[6].if size >= 2 then calculate the area by taking poping top 2 values otherwise -1
